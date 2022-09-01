@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13407" started-at="2022-08-27T16:53:58 IST" finished-at="2022-08-27T16:54:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13407" started-at="2022-08-27T16:53:58 IST" finished-at="2022-08-27T16:54:12 IST">
+      <class name="testngpack.DataPrivider">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="setup" is-config="true" duration-ms="2886" started-at="2022-08-27T16:53:58 IST" finished-at="2022-08-27T16:54:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="f" duration-ms="241" started-at="2022-08-27T16:54:01 IST" data-provider="dataprovider1" finished-at="2022-08-27T16:54:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="afterMethod" is-config="true" duration-ms="683" started-at="2022-08-27T16:54:02 IST" finished-at="2022-08-27T16:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="setup" is-config="true" duration-ms="1484" started-at="2022-08-27T16:54:02 IST" finished-at="2022-08-27T16:54:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="f" duration-ms="229" started-at="2022-08-27T16:54:04 IST" data-provider="dataprovider1" finished-at="2022-08-27T16:54:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admanger]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manger123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="afterMethod" is-config="true" duration-ms="669" started-at="2022-08-27T16:54:04 IST" finished-at="2022-08-27T16:54:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="setup" is-config="true" duration-ms="1517" started-at="2022-08-27T16:54:05 IST" finished-at="2022-08-27T16:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="f" duration-ms="218" started-at="2022-08-27T16:54:06 IST" data-provider="dataprovider1" finished-at="2022-08-27T16:54:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="afterMethod" is-config="true" duration-ms="665" started-at="2022-08-27T16:54:06 IST" finished-at="2022-08-27T16:54:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="setup" is-config="true" duration-ms="1467" started-at="2022-08-27T16:54:07 IST" finished-at="2022-08-27T16:54:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="f" duration-ms="234" started-at="2022-08-27T16:54:08 IST" data-provider="dataprovider1" finished-at="2022-08-27T16:54:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="afterMethod" is-config="true" duration-ms="668" started-at="2022-08-27T16:54:09 IST" finished-at="2022-08-27T16:54:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="setup" is-config="true" duration-ms="1494" started-at="2022-08-27T16:54:09 IST" finished-at="2022-08-27T16:54:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String)[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="f" duration-ms="220" started-at="2022-08-27T16:54:11 IST" data-provider="dataprovider1" finished-at="2022-08-27T16:54:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngpack.DataPrivider@4232c52b]" name="afterMethod" is-config="true" duration-ms="673" started-at="2022-08-27T16:54:11 IST" finished-at="2022-08-27T16:54:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testngpack.DataPrivider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
